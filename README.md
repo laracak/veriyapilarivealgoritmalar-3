@@ -10,4 +10,4 @@
       (6) 5'ten büyük olduğu için    / \                    
         1'den küçük olduğu için <-  0   3  -> 1'den büyük olduğu için   
                                        / \
-          3'den küçük olduğu için <-  2   4  -> 3'den büyük olduğu için
+          3'ten küçük olduğu için <-  2   4  -> 3'ten büyük olduğu için
